@@ -1,6 +1,6 @@
 # msbd5001_individual_kaggle_project
 The program is developed using Python 3.7.6.
-Important libraries imported are - datetime, numpy, pandas, matplotlib, seaborn , sklearn
+Important libraries imported are - datetime, numpy, pandas, matplotlib, seaborn , sklearn.
 Code can be found at - https://github.com/priyankob/msbd5001_individual_kaggle_project/blob/main/src/msbd5001_final.py
 Final Submission file - https://github.com/priyankob/msbd5001_individual_kaggle_project/blob/main/priyanko_final_submission.csv
 
