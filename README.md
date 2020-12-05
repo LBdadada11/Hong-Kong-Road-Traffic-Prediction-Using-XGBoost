@@ -5,7 +5,7 @@ Code can be found at - https://github.com/priyankob/msbd5001_individual_kaggle_p
 Final Submission file - https://github.com/priyankob/msbd5001_individual_kaggle_project/blob/main/priyanko_final_submission_0512.csv
 
 For running -
-1.train.csv and test.csv should be stored at ../input/msbd5001-fall2020/
+1.train.csv and test.csv should be stored at ../input/<xyz>.csv
 2.Run as - ./msbd5001_final.py
 
 The train file location used as '../input/train.csv' and test file location used as '../input/test.csv'.
